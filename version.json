@@ -1,4 +1,8 @@
 {
     "name": "2.3",
-    "code": "22"
+    "code": "22",
+    "showAd": "true",
+    "bannerId": "ca-app-pub-6950225574057482/9402051685",
+    "interstitialId": "ca-app-pub-6950225574057482/2895791650",
+    "update": "09-09-2021"
 }
